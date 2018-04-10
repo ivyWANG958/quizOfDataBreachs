@@ -182,7 +182,7 @@
                     });
                 } else {
                     opts = $.extend(opts, {
-                        title: "Drat",
+                        title: "Sorry",
                         text: (
                             "Nope, not quite right!<br/><br/>" +
                             "The correct answer was \"" +
